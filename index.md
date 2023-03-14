@@ -9,7 +9,7 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 ## Publications
 
 ### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods
-Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
+Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
 ### Safe Learning for Near Optimal Scheduling
 Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
 ### Monte Carlo Tree Search guided by Symbolic Advice for MDPs
