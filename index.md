@@ -1,6 +1,6 @@
 Hi!
 
-I did my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification group](http://di.ulb.ac.be/verif/) in Département d'Informatique, Université Libre de Bruxelles.
+In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification group](http://di.ulb.ac.be/verif/) in Département d'Informatique, Université Libre de Bruxelles.
 
 Previously, I received my MSc in Computer Science and BSc in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
@@ -8,26 +8,34 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;&nbsp;<span style="color:pink">AAMAS 2023</span>
+### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;&nbsp;<span style="color:pink">AAMAS 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
 
-[[pdf]](https://arxiv.org/pdf/2005.09253.pdf)
+<!-- [[pdf]](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;[[Video]](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
-&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf)
+&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf) -->
 
 ### Safe Learning for Near Optimal Scheduling &nbsp;&nbsp;<span style="color:pink">QEST 2021</span>
 Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
 
-[[pdf]](https://arxiv.org/pdf/2005.09253.pdf)
-&nbsp;&nbsp;[[Video]](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
-&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf)
+<!-- [[📖 pdf]](https://arxiv.org/pdf/2005.09253.pdf)
+&nbsp;&nbsp;[[📺 Video]](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
+&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf) -->
 
 ### Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;&nbsp;<span style="color:pink">CONCUR 2020</span>
 Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
-[[pdf]](https://arxiv.org/pdf/2005.09253.pdf)
+<!-- [[pdf]](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;[[Video]](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
-&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf)
+&nbsp;&nbsp;[[Slides]](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf) -->
+
+---
+
+## PhD thesis
+
+### Monte Carlo Tree Search with Advice
+[📖](files/thesis_CHAKRABORTY.pdf)
+[📺](https://youtu.be/c3UHVat-0_4)
 
 <!-- 
 ||
