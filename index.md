@@ -25,7 +25,7 @@ Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez a
 ### Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;<span style="color:pink">CONCUR 2020</span>
 Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
-[**pdf**](https://arxiv.org/pdf/2005.09253.pdf)
+[**pdf**](https://arxiv.org/pdf/2006.04712.pdf)
 &nbsp;&nbsp;[**Slides**](files/Slides/DefencePublic.pdf)
 
 ---
