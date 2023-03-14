@@ -18,24 +18,24 @@ Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-Françoi
 ### Safe Learning for Near Optimal Scheduling &nbsp;<span style="color:pink">QEST 2021</span>
 Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
 
-[``pdf``](https://arxiv.org/pdf/2005.09253.pdf)
+[**pdf**](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;
-[``Slides``](files/Slides/QEST21.pdf)
+[**Slides**](files/Slides/QEST21.pdf)
 
 ### Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;<span style="color:pink">CONCUR 2020</span>
 Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
-[``pdf``](https://arxiv.org/pdf/2005.09253.pdf)
-&nbsp;&nbsp;[``Slides``](files/Slides/CONCUR20.pdf)
+[**pdf**](https://arxiv.org/pdf/2005.09253.pdf)
+&nbsp;&nbsp;[**Slides**](files/Slides/DefencePublic.pdf)
 
 ---
 
 ## PhD thesis
 
 ### Monte Carlo Tree Search with Advice &nbsp;&nbsp;<span style="color:pink">2023</span> 
-[``pdf``](files/thesis_CHAKRABORTY.pdf)
-&nbsp;&nbsp;[``Video``](https://youtu.be/c3UHVat-0_4)
-&nbsp;&nbsp;[``Slides``](files/Slides/CONCUR20.pdf)
+[**pdf**](files/thesis_CHAKRABORTY.pdf)
+&nbsp;&nbsp;[**Video**](https://youtu.be/c3UHVat-0_4)
+&nbsp;&nbsp;[**Slides**](files/Slides/CONCUR20.pdf)
 
 
 
