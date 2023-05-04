@@ -1,5 +1,7 @@
 Hi!
 
+I am a resercher at the [Faculty of Informatics](https://www.fi.muni.cz/) in Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+
 In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification group](http://di.ulb.ac.be/verif/) in Département d'Informatique, Université Libre de Bruxelles.
 
 Previously, I received my MSc in Computer Science and BSc in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
@@ -75,11 +77,15 @@ Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 ### Address
 
 ```
-🌏
+Debraj Chakraborty,
+Faculty of Informatics,
+Masaryk University,
+Botanická 554/68a, 
+60200 Brno
 ```
 
 ### Email
 
 ```
-jarbedytrobarkahc<at>gmail<dot>com
+<lastname><at>fi.muni.cz
 ```
