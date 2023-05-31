@@ -10,8 +10,11 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">acceped at AAMAS 2023</span> 
+### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
+
+[**pdf**](https://dl.acm.org/doi/pdf/10.5555/3545946.3598783)
+
 
 <!-- [``pdf``](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;[``Video``](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
@@ -81,7 +84,8 @@ Debraj Chakraborty,
 Faculty of Informatics,
 Masaryk University,
 Botanická 554/68a, 
-60200 Brno
+60200 Brno,
+Czech Republic
 ```
 
 ### Email
