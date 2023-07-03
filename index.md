@@ -1,6 +1,6 @@
 Hi!
 
-I am a resercher at the [Faculty of Informatics](https://www.fi.muni.cz/) in Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+I am a postdoctoral researcher at the [Faculty of Informatics](https://www.fi.muni.cz/) at Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
 
 In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification group](http://di.ulb.ac.be/verif/) in Département d'Informatique, Université Libre de Bruxelles.
 
@@ -10,7 +10,13 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
+### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">To appear at ATVA 2023</span> 
+Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Guillermo A. Pérez and Jean-François Raskin
+
+[**pre-print**](https://arxiv.org/abs/2305.09634)
+
+
+### 📄 Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
 
 [**pdf**](https://dl.acm.org/doi/pdf/10.5555/3545946.3598783)
@@ -20,14 +26,14 @@ Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-Françoi
 &nbsp;&nbsp;[``Video``](https://di.ulb.ac.be/verif/debraj/files/QEST21_talk.mp4)
 &nbsp;&nbsp;[``Slides``](https://di.ulb.ac.be/verif/debraj/files/QEST21_slides.pdf) -->
 
-### Safe Learning for Near Optimal Scheduling &nbsp;<span style="color:pink">QEST 2021</span>
+### 📄 Safe Learning for Near-Optimal Scheduling &nbsp;<span style="color:pink">QEST 2021</span>
 Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
 
 [**pdf**](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;
 [**Slides**](files/Slides/QEST21.pdf)
 
-### Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;<span style="color:pink">CONCUR 2020</span>
+### 📄 Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;<span style="color:pink">CONCUR 2020</span>
 Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
 [**pdf**](https://arxiv.org/pdf/2006.04712.pdf)
@@ -85,7 +91,8 @@ Faculty of Informatics,
 Masaryk University,
 Botanická 554/68a, 
 60200 Brno,
-Czech Republic
+Czech Republic,
+🌍
 ```
 
 ### Email
