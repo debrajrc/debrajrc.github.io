@@ -19,7 +19,7 @@ Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Gu
 ### 📄 Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
 
-[**pdf**](files/papers/Formally-Sharp DAgger MCTS.pdf)
+[**pdf**](files/papers/Formally-Sharp-DAgger-MCTS.pdf)
 
 <!-- [**pdf**](https://dl.acm.org/doi/pdf/10.5555/3545946.3598783) -->
 
