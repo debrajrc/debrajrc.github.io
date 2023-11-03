@@ -13,7 +13,8 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 ### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">To appear at ATVA 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Guillermo A. Pérez and Jean-François Raskin
 
-[**pre-print**](https://arxiv.org/abs/2305.09634)
+[**pdf**](files/papers/Bi-objective-optimization.pdf)
+&nbsp;&nbsp;[**Slides**](files/Slides/ATVA23.pdf)
 
 
 ### 📄 Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
