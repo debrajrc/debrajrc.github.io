@@ -11,7 +11,7 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 ## Publications
 
 ### 📄 Learning Explainable and Better Performing Representations of POMDP Strategies &nbsp;<span style="color:pink">To appear at TACAS 2024</span> 
-Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Kretínský and Stefanie Mohr
+Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Křetínský and Stefanie Mohr
 
 
 ### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">ATVA 2023</span> 
