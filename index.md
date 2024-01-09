@@ -1,8 +1,8 @@
 Hi!
 
-I am a postdoctoral researcher at the [Faculty of Informatics](https://www.fi.muni.cz/) at Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+I am a postdoctoral researcher at [Learning in Verification](https://live-lab.fi.muni.cz/) lab in the Faculty of Informatics, Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
 
-In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification group](http://di.ulb.ac.be/verif/) in Département d'Informatique, Université Libre de Bruxelles.
+In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification](http://di.ulb.ac.be/verif/) group in Département d'Informatique, Université Libre de Bruxelles.
 
 Previously, I received my MSc in Computer Science and BSc in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
