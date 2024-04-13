@@ -10,9 +10,10 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### 📄 Learning Explainable and Better Performing Representations of POMDP Strategies &nbsp;<span style="color:pink">To appear at TACAS 2024</span> 
+### 📄 Learning Explainable and Better Performing Representations of POMDP Strategies &nbsp;<span style="color:pink">TACAS 2024</span> 
 Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Křetínský and Stefanie Mohr
 
+[**pdf**](https://arxiv.org/pdf/2401.07656.pdf)
 
 ### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">ATVA 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Guillermo A. Pérez and Jean-François Raskin
