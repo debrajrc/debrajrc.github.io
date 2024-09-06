@@ -54,7 +54,7 @@ Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 ### Monte Carlo Tree Search with Advice &nbsp;&nbsp;<span style="color:pink">2023</span> 
 [**pdf**](files/thesis_CHAKRABORTY.pdf)
 &nbsp;&nbsp;[**Video**](https://youtu.be/c3UHVat-0_4)
-&nbsp;&nbsp;[**Slides**](files/Slides/CONCUR20.pdf)
+&nbsp;&nbsp;[**Slides**](files/Slides/DefencePublic.pdf)
 
 
 
