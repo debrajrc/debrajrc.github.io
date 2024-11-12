@@ -10,6 +10,11 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
+### 📄 1-2-3-Go! Policy Synthesis for Parameterized Markov Decision Processes via Decision-Tree Learning and Generalization &nbsp;<span style="color:pink">Accepted at VMCAI 2025</span> 
+Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav, Jan Křetínský, Mohammadsadegh Mohagheghi, Stefanie Mohr and Maximilian Weininger
+
+[**pdf**](https://arxiv.org/pdf/2410.18293)
+
 ### 📄 Learning Explainable and Better Performing Representations of POMDP Strategies &nbsp;<span style="color:pink">TACAS 2024</span> 
 Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Křetínský and Stefanie Mohr
 
