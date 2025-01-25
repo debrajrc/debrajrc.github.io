@@ -10,7 +10,11 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### 📄 1-2-3-Go! Policy Synthesis for Parameterized Markov Decision Processes via Decision-Tree Learning and Generalization &nbsp;<span style="color:pink">Accepted at VMCAI 2025</span> 
+### 📄 Explaining Control Policies through Predicate Decision Diagrams &nbsp;<span style="color:pink">Accepted at HSCC 2025</span> 
+Debraj Chakraborty, Clemens Dubslaff, Sudeep Kanav, Jan Křetínský and Christoph Weinhuber
+
+
+### 📄 1-2-3-Go! Policy Synthesis for Parameterized Markov Decision Processes via Decision-Tree Learning and Generalization &nbsp;<span style="color:pink">VMCAI 2025</span> 
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav, Jan Křetínský, Mohammadsadegh Mohagheghi, Stefanie Mohr and Maximilian Weininger
 
 [**pdf**](https://arxiv.org/pdf/2410.18293)
