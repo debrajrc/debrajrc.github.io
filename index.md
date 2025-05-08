@@ -15,6 +15,7 @@ Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan K
 
 ### 📄 Explaining Control Policies through Predicate Decision Diagrams &nbsp;<span style="color:pink">Accepted at HSCC 2025</span> 
 Debraj Chakraborty, Clemens Dubslaff, Sudeep Kanav, Jan Křetínský and Christoph Weinhuber
+
 [**pdf**](https://arxiv.org/pdf/2503.06420)
 
 ### 📄 1-2-3-Go! Policy Synthesis for Parameterized Markov Decision Processes via Decision-Tree Learning and Generalization &nbsp;<span style="color:pink">VMCAI 2025</span> 
