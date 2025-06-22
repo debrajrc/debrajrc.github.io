@@ -12,6 +12,7 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">Accepted at UAI 2025</span>
 Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan Křetínský and Filip Macák
+[**pdf**](https://openreview.net/pdf?id=P0JNSkJtyN)
 
 ### 📄 Explaining Control Policies through Predicate Decision Diagrams &nbsp;<span style="color:pink">HSCC 2025</span> 
 Debraj Chakraborty, Clemens Dubslaff, Sudeep Kanav, Jan Křetínský and Christoph Weinhuber
