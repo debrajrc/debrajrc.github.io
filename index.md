@@ -10,7 +10,7 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">Accepted at UAI 2025</span>
+### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">UAI 2025</span>
 Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan Křetínský and Filip Macák
 
 [**pdf**](https://openreview.net/pdf?id=P0JNSkJtyN)
