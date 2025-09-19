@@ -10,6 +10,10 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
+### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
+Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina Könighofer
+
+
 ### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">UAI 2025</span>
 Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan Křetínský and Filip Macák
 
