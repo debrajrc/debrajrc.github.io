@@ -10,7 +10,7 @@ Previously, I received my MSc in Computer Science and BSc in Mathematics and Com
 
 ## Publications
 
-### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
+### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">Accepted at NeurIPS 2025</span>
 Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina Könighofer
 
 
