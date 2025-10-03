@@ -18,7 +18,7 @@ Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina 
 Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan Křetínský and Filip Macák
 
 [**pdf**](https://openreview.net/pdf?id=P0JNSkJtyN)
-&nbsp;&nbsp;[**Implementation**](https://zenodo.org/records/15642002)
+&nbsp;&nbsp;[**Code**](https://zenodo.org/records/15642002)
 
 ### 📄 Explaining Control Policies through Predicate Decision Diagrams &nbsp;<span style="color:pink">HSCC 2025</span> 
 Debraj Chakraborty, Clemens Dubslaff, Sudeep Kanav, Jan Křetínský and Christoph Weinhuber
@@ -35,7 +35,7 @@ Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav, Jan Křetínský, Mohammadsadegh
 Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Křetínský and Stefanie Mohr
 
 [**pdf**](https://arxiv.org/pdf/2401.07656.pdf)
-&nbsp;&nbsp;[**Implementation**](https://zenodo.org/records/10437018)
+&nbsp;&nbsp;[**Code**](https://zenodo.org/records/10437018)
 
 ### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">ATVA 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Guillermo A. Pérez and Jean-François Raskin
