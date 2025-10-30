@@ -1,10 +1,12 @@
 Hi!
 
-I am a postdoctoral researcher at [Learning in Verification](https://live-lab.fi.muni.cz/) lab in the Faculty of Informatics, Masaryk University, Brno, where I am working with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
+I am a postdoctoral reasearcher with Prof. [Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) at [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University, Singapore.
+
+From 2023 to 2025, I was a postdoc at [Learning in Verification](https://live-lab.fi.muni.cz/) lab in the Faculty of Informatics, Masaryk University, Brno, with Prof. [Jan Křetínský](https://www7.in.tum.de/~kretinsk/).
 
 In December 2022, I completed my PhD under supervision of Prof. [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) at [Formal Methods and Verification](http://di.ulb.ac.be/verif/) group in Département d'Informatique, Université Libre de Bruxelles.
 
-Previously, I received my MSc in Computer Science and BSc in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
+I received my MSc in Computer Science and BSc in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
 ---
 
@@ -117,16 +119,16 @@ Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
 ```
 Debraj Chakraborty,
-Faculty of Informatics,
-Masaryk University,
-Botanická 554/68a, 
-60200 Brno,
-Czech Republic,
-🌍
+College of Computing and Data Science,
+Nanyang Technological University,
+50 Nanyang Avenue,
+Singapore 639798,
+Singapore,
+🌏
 ```
 
 ### Email
 
 ```
-<lastname><at>fi.muni.cz
+<firstname>.<lastname><at>ntu.edu.sg
 ```
