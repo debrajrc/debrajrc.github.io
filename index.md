@@ -14,6 +14,7 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 
 ### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">Accepted at NeurIPS 2025</span>
 Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina Könighofer
+
 [**pdf**](https://openreview.net/pdf?id=l6hAqx4eoB)
 
 ### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">UAI 2025</span>
