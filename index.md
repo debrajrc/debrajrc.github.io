@@ -135,5 +135,5 @@ Singapore,
 ### Email
 
 ```
-<firstname>.<lastname><at>ntu.edu.sg
+debraj DOT chakraborty AT ntu DOT edu DOT sg
 ```
