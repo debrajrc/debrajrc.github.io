@@ -12,7 +12,7 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 
 ## Publications
 
-### 📄 Explainable Representation of Finite-Memory Policies for POMDPs using Decision Trees &nbsp;<span style="color:pink">Acceped at AAMAS 2026</span>
+### 📄 Explainable Representation of Finite-Memory Policies for POMDPs using Decision Trees &nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav and Jan Křetínský
 
 ### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
