@@ -15,48 +15,50 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 ### 📄 Resilient Strategies for Stochastic Systems: How Much Does it Take to Break a Winning Strategy? &nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Kush Grover, Markel Zubia, Debraj Chakraborty, Muqsit Azeem, Nils Jansen and Jan Křetínský
 
+[**paper**](https://arxiv.org/pdf/2602.24191)
+
 ### 📄 Explainable Representation of Finite-Memory Policies for POMDPs using Decision Trees <br>&nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav and Jan Křetínský
 
 ### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
 Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina Könighofer
 
-[**pdf**](https://openreview.net/pdf?id=l6hAqx4eoB)
+[**paper**](https://openreview.net/pdf?id=l6hAqx4eoB)
 
 ### 📄 Symbiotic Local Search for Small Decision Tree Policies in MDPs &nbsp;<span style="color:pink">UAI 2025</span>
 Roman Andriushchenko, Milan Češka, Debraj Chakraborty, Sebastian Junges, Jan Křetínský and Filip Macák
 
-[**pdf**](https://openreview.net/pdf?id=P0JNSkJtyN)
+[**paper**](https://openreview.net/pdf?id=P0JNSkJtyN)
 &nbsp;&nbsp;[**Code**](https://zenodo.org/records/15642002)
 
 ### 📄 Explaining Control Policies through Predicate Decision Diagrams &nbsp;<span style="color:pink">HSCC 2025</span> 
 Debraj Chakraborty, Clemens Dubslaff, Sudeep Kanav, Jan Křetínský and Christoph Weinhuber
 
-[**pdf**](https://arxiv.org/pdf/2503.06420)
+[**paper**](https://arxiv.org/pdf/2503.06420)
 &nbsp;&nbsp;[**Slides**](files/Slides/HSCC25.pdf)
 
 ### 📄 1-2-3-Go! Policy Synthesis for Parameterized Markov Decision Processes via Decision-Tree Learning and Generalization &nbsp;<span style="color:pink">VMCAI 2025</span> 
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav, Jan Křetínský, Mohammadsadegh Mohagheghi, Stefanie Mohr and Maximilian Weininger
 
-[**pdf**](https://arxiv.org/pdf/2410.18293)
+[**paper**](https://arxiv.org/pdf/2410.18293)
 
 ### 📄 Learning Explainable and Better Performing Representations of POMDP Strategies &nbsp;<span style="color:pink">TACAS 2024</span> 
 Alexander Bork, Debraj Chakraborty, Kush Grover, Jan Křetínský and Stefanie Mohr
 
-[**pdf**](https://arxiv.org/pdf/2401.07656.pdf)
+[**paper**](https://arxiv.org/pdf/2401.07656.pdf)
 &nbsp;&nbsp;[**Code**](https://zenodo.org/records/10437018)
 
 ### 📄 Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives &nbsp;<span style="color:pink">ATVA 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Anirban Majumdar, Sayan Mukherjee, Guillermo A. Pérez and Jean-François Raskin
 
-[**pdf**](files/papers/Bi-objective-optimization.pdf)
+[**paper**](files/papers/Bi-objective-optimization.pdf)
 &nbsp;&nbsp;[**Slides**](files/Slides/ATVA23.pdf)
 
 
 ### 📄 Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods &nbsp;<span style="color:pink">AAMAS 2023</span> 
 Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-François Raskin
 
-[**pdf**](files/papers/Formally-Sharp-DAgger-MCTS.pdf)
+[**paper**](files/papers/Formally-Sharp-DAgger-MCTS.pdf)
 
 <!-- [**pdf**](https://dl.acm.org/doi/pdf/10.5555/3545946.3598783) -->
 
@@ -68,14 +70,14 @@ Damien Busatto-Gaston, Debraj Chakraborty, Guillermo A. Pérez and Jean-Françoi
 ### 📄 Safe Learning for Near-Optimal Scheduling &nbsp;<span style="color:pink">QEST 2021</span>
 Damien Busatto-Gaston, Debraj Chakraborty, Shibashis Guha, Guillermo A. Pérez and Jean-François Raskin
 
-[**pdf**](https://arxiv.org/pdf/2005.09253.pdf)
+[**paper**](https://arxiv.org/pdf/2005.09253.pdf)
 &nbsp;&nbsp;
 [**Slides**](files/Slides/QEST21.pdf)
 
 ### 📄 Monte Carlo Tree Search guided by Symbolic Advice for MDPs &nbsp;<span style="color:pink">CONCUR 2020</span>
 Damien Busatto-Gaston, Debraj Chakraborty and Jean-François Raskin
 
-[**pdf**](https://arxiv.org/pdf/2006.04712.pdf)
+[**paper**](https://arxiv.org/pdf/2006.04712.pdf)
 &nbsp;&nbsp;[**Slides**](files/Slides/DefencePublic.pdf)
 
 ---
