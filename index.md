@@ -20,6 +20,9 @@ Kush Grover, Markel Zubia, Debraj Chakraborty, Muqsit Azeem, Nils Jansen and Jan
 ### 📄 Explainable Representation of Finite-Memory Policies for POMDPs using Decision Trees <br>&nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav and Jan Křetínský
 
+[**paper**](files/papers/DT_FSC_full.pdf)
+&nbsp;&nbsp;[**Code**](https://zenodo.org/records/17313689)
+
 ### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
 Sabine Rieder, Stefan Pranger, Debraj Chakraborty, Jan Křetínský and Bettina Könighofer
 
