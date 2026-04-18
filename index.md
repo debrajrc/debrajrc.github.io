@@ -12,6 +12,9 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 
 ## Publications
 
+### 📄 Synthesizing POMDP Policies: Sampling Meets Model-checking via Learning &nbsp;<span style="color:pink">Accepted at CAV 2026</span>
+Debraj Chakraborty, Anirban Majumdar, Prince Mathew, Sayan Mukherjee and Jean-François Raskin
+
 ### 📄 Resilient Strategies for Stochastic Systems: How Much Does it Take to Break a Winning Strategy? &nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Kush Grover, Markel Zubia, Debraj Chakraborty, Muqsit Azeem, Nils Jansen and Jan Křetínský
 
