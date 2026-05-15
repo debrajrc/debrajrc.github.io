@@ -14,6 +14,8 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 
 ### 📄 Synthesizing POMDP Policies: Sampling Meets Model-checking via Learning &nbsp;<span style="color:pink">Accepted at CAV 2026</span>
 Debraj Chakraborty, Anirban Majumdar, Prince Mathew, Sayan Mukherjee and Jean-François Raskin
+[**paper**](https://arxiv.org/pdf/2605.14440)
+&nbsp;&nbsp;[**Code**](https://zenodo.org/records/20084734)
 
 ### 📄 Resilient Strategies for Stochastic Systems: How Much Does it Take to Break a Winning Strategy? &nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Kush Grover, Markel Zubia, Debraj Chakraborty, Muqsit Azeem, Nils Jansen and Jan Křetínský
@@ -23,7 +25,7 @@ Kush Grover, Markel Zubia, Debraj Chakraborty, Muqsit Azeem, Nils Jansen and Jan
 ### 📄 Explainable Representation of Finite-Memory Policies for POMDPs using Decision Trees <br>&nbsp;<span style="color:pink">Accepted at AAMAS 2026</span>
 Muqsit Azeem, Debraj Chakraborty, Sudeep Kanav and Jan Křetínský
 
-[**paper**](files/papers/DT_FSC_full.pdf)
+[**paper**](https://arxiv.org/pdf/2411.13365)
 &nbsp;&nbsp;[**Code**](https://zenodo.org/records/17313689)
 
 ### 📄 Explainably Safe Reinforcement Learning &nbsp;<span style="color:pink">NeurIPS 2025</span>
