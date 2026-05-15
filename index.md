@@ -14,6 +14,7 @@ I received my MSc in Computer Science and BSc in Mathematics and Computer Scienc
 
 ### 📄 Synthesizing POMDP Policies: Sampling Meets Model-checking via Learning &nbsp;<span style="color:pink">Accepted at CAV 2026</span>
 Debraj Chakraborty, Anirban Majumdar, Prince Mathew, Sayan Mukherjee and Jean-François Raskin
+
 [**paper**](https://arxiv.org/pdf/2605.14440)
 &nbsp;&nbsp;[**Code**](https://zenodo.org/records/20084734)
 
